@@ -9,6 +9,11 @@ AI-driven approach. The simulation is developed using
 MATLAB.
 
 Execution and Real-Time Uses
+<img width="1919" height="940" alt="Screenshot 2025-08-11 225840" src="https://github.com/user-attachments/assets/490ad793-3b79-4d63-aacd-be1f4d38365c" />
+
+<img width="1911" height="914" alt="Screenshot 2025-08-11 225849" src="https://github.com/user-attachments/assets/4be00165-44d3-4c1f-ab03-d7edd105304d" />
+
+
 <img width="1915" height="688" alt="Screenshot 2025-08-11 230535" src="https://github.com/user-attachments/assets/434b7e80-62cf-43f4-8926-227ab4a19f6b" />
 
 
